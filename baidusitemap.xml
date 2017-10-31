@@ -3,59 +3,20 @@
 
 
     
-  <url>
-    <loc>http://yoursite.com/2017/10/31/tagsTest/</loc>
-    <lastmod>2017-10-31T08:22:16.039Z</lastmod>
-    <data>
-        <display>
-        <title>标签测试文章</title>
-        <pubTime>2017-10-31T07:08:00.000Z</pubTime>
-        
-        <tag>tag1</tag>
-         
-        <tag>tag2</tag>
-         
-         
-           
-        </display>
-    </data>
-    </url>
-
+    
     
   <url>
-    <loc>http://yoursite.com/2017/10/30/hello-world/</loc>
-    <lastmod>2017-10-31T08:21:59.430Z</lastmod>
+    <loc>http://yoursite.com/2017/10/31/index/</loc>
+    <lastmod>2017-10-31T08:42:44.234Z</lastmod>
     <data>
         <display>
-        <title>Hello World</title>
-        <pubTime>2017-10-30T09:25:00.000Z</pubTime>
-        
-        <tag>Testing</tag>
-         
-        <tag>Another Tag</tag>
-         
-         
-           
-             
-              <breadCrumb title="test" url="http://yoursite.com/categories/test/"/>
-          
-        </display>
-    </data>
-    </url>
-
-    
-  <url>
-    <loc>http://yoursite.com/2017/10/31/catTest/</loc>
-    <lastmod>2017-10-31T08:12:27.974Z</lastmod>
-    <data>
-        <display>
-        <title>分类测试文章</title>
-        <pubTime>2017-10-31T07:43:01.000Z</pubTime>
+        <title>hexo搭建的博客系统</title>
+        <pubTime>2017-10-31T08:39:00.000Z</pubTime>
         
          
            
              
-              <breadCrumb title="Testing" url="http://yoursite.com/categories/Testing/"/>
+              <breadCrumb title="随笔" url="http://yoursite.com/categories/%E9%9A%8F%E7%AC%94/"/>
           
         </display>
     </data>
@@ -63,21 +24,4 @@
 
     
     
-    
-    
-    
-  <url>
-    <loc>http://yoursite.com/2017/10/30/test/</loc>
-    <lastmod>2017-10-30T09:39:31.705Z</lastmod>
-    <data>
-        <display>
-        <title>我的博客</title>
-        <pubTime>2017-10-30T09:38:52.457Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
